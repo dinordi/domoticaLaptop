@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cfg_cli.h": "c",
+        "cfg_srv.h": "c"
+    }
+}
