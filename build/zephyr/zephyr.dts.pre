@@ -1039,7 +1039,7 @@ zephyr_udc0: &usbd {
  };
 };
 # 1 "<command-line>" 2
-# 1 "/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/boards/nrf52840dongle_nrf52840.overlay" 1
+# 1 "/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/boards/nrf52840dongle_nrf52840.overlay" 1
 / {
     aliases {
             led0 = &myled;

@@ -343,9 +343,9 @@ static int gen_onoff_status(struct bt_mesh_model *model,
 	onoff.val = present;
 	if(button_pressed_flag)
 	{
+		button_pressed_flag = false;
 		printk("Button pressed\n");
 		(void)gen_onoff_send(!onoff.val);
-		button_pressed_flag = false;
 	}
 
 	return 0;

@@ -1311,8 +1311,8 @@
 /Users/dinordi/zephyrproject/zephyr/modules/trusted-firmware-m/Kconfig.tfm.partitions
 /Users/dinordi/zephyrproject/zephyr/modules/uoscore-uedhoc/Kconfig
 /Users/dinordi/zephyrproject/zephyr/modules/zcbor/Kconfig
-/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/Kconfig/Kconfig.dts
-/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/Kconfig/Kconfig.modules
+/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/Kconfig/Kconfig.dts
+/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/Kconfig/Kconfig.modules
 /Users/dinordi/zephyrproject/zephyr/soc/Kconfig
 /Users/dinordi/zephyrproject/zephyr/soc/arm/Kconfig
 /Users/dinordi/zephyrproject/zephyr/soc/arm/ambiq/Kconfig

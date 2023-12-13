@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/drivers/usb/device/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/drivers/usb/device/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/drivers/usb/common/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/drivers/usb/common/cmake_install.cmake")
 endif()
 

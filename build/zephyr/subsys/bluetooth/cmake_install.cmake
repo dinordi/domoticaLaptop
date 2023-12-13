@@ -39,31 +39,31 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/subsys/bluetooth/common/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/subsys/bluetooth/common/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/subsys/bluetooth/host/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/subsys/bluetooth/host/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/subsys/bluetooth/services/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/subsys/bluetooth/services/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/subsys/bluetooth/mesh/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/subsys/bluetooth/mesh/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/subsys/bluetooth/controller/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/subsys/bluetooth/controller/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/build/zephyr/subsys/bluetooth/lib/cmake_install.cmake")
+  include("/Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/build/zephyr/subsys/bluetooth/lib/cmake_install.cmake")
 endif()
 

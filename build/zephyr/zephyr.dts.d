@@ -26,4 +26,4 @@ empty_file.o: /Users/dinordi/zephyrproject/zephyr/misc/empty_file.c \
  /Users/dinordi/zephyrproject/zephyr/boards/arm/nrf52840dongle_nrf52840/nrf52840dongle_nrf52840-pinctrl.dtsi \
  /Users/dinordi/zephyrproject/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
  /Users/dinordi/zephyrproject/zephyr/boards/arm/nrf52840dongle_nrf52840/fstab-stock.dtsi \
- /Users/dinordi/zephyrproject/zephyr/samples/bluetooth/meshcopyLAPTOP/boards/nrf52840dongle_nrf52840.overlay
+ /Users/dinordi/zephyrproject/zephyr/samples/bluetooth/domoticaLaptop/boards/nrf52840dongle_nrf52840.overlay
