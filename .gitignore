@@ -1,19 +1,19 @@
 
-# # Ignore everything
-# build/
-# README.rst
-# .vscode/
-# .west/
-# zephyr/
-# .DS_Store
-# sample.yaml
-# # But not these files...
-# !.gitignore
-# !CMakeLists.txt
-# !prj.conf
+# Ignore everything
+build/
+README.rst
+.vscode/
+.west/
+zephyr/
+.DS_Store
+sample.yaml
+# But not these files...
+!.gitignore
+!CMakeLists.txt
+!prj.conf
 
 
-# # ...and not these folders...
-# !/src/
-# !boards/
+# ...and not these folders...
+!/src/
+!boards/
 
