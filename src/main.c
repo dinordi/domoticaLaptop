@@ -280,14 +280,6 @@ static void gen_onoff_set(struct bt_mesh_model *model,
 {
 	uint8_t onoff_state = net_buf_simple_pull_u8(buf);
 
-	// /* Toggle the LED based on the onoff_state */
-	// if (onoff_state) {
-	// 	gpio_pin_set_dt(&led, 1);
-	// 	printk("LED ON\n");
-	// } else {
-	// 	gpio_pin_set_dt(&led, 0);
-	// 	printk("LED OFF\n");
-	// }
 	printk("Ledje toggle\n");
 	if(toggle == 0){
         print_uart("3");
